@@ -10,7 +10,7 @@
 ## Feature
 - Nuker info
     - Del all Channels
-    - Ban all Members (not included whitelist)
+    - Ban all Members (not author)
     - Send 1750 message for a minute
     - Create 50 channel
     - Customize Server and Channel name, message contents
