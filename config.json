@@ -1,0 +1,7 @@
+{
+    "token": "YOUR_BOT_TOKEN",
+    "server_name": "Test",
+    "channel_name": "test",
+    "message": "@everyone test",
+    "command": "&&nuke" // default value is &&nuke
+}
