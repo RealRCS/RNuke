@@ -19,6 +19,7 @@ command = config['command']
 
 @client.event
 async def on_ready():
+    print("Made By _realrcs_")
     print(f'Logged in as {client.user}')
 
 @client.event
