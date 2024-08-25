@@ -1,6 +1,6 @@
 <div align="center">
     <h1>RNuke</h1>
-    <img src="https://img.shields.io/github/languages/top/RealRCS/RNuke?color=54AEFF">
+    <img src="https://img.shields.io/github/languages/top/RealRCS/RNuke">
     <img src="https://img.shields.io/github/stars/RealRCS/RNuke?color=%23000000&logoColor=%23000000">
     <br>
     <img src="https://img.shields.io/github/commit-activity/w/RealRCS/RNuke?color=%23000000"> 
